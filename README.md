@@ -1,8 +1,8 @@
 # Assignment-10
 
-## files description
 
 | File name | Description |
-| kasr.py   | fraction properties and methods |
+| --------- | ----------- |
+| kasr.py | fraction properties and methods |
 | tarikh.py | date properties and methods |
-| zaman.py  | time properties and methods |
+| zaman.py | time properties and methods |
